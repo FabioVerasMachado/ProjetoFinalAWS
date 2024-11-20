@@ -37,7 +37,6 @@
 - **Elastic Load Balancer (ELB):** Distribuição eficiente do tráfego com health checks automáticos.  
 - **Amazon EFS (Elastic File System):** Sistema de arquivos compartilhado para persistência de dados entre pods.  
 - **AWS IAM:** Controle rigoroso de acesso com políticas de menor privilégio.  
-- **AWS WAF:** Proteção contra ataques web comuns (ex.: DDoS, SQL Injection).  
 - **TLS/SSL:** Criptografia de tráfego para segurança dos dados em trânsito.
 ---
 
