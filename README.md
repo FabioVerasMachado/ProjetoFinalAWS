@@ -76,7 +76,7 @@
 1. **🛠️ Equipes Paralelas:** Configuração simultânea de EKS, RDS e ELB para otimizar o tempo.  
 2. **🤖 Automação:**Uso de DevOps Tools e CloudFormation para provisionamento de infraestrutura.  
 3. **📜 Scripts de Migração:** Automação para migração de dados eficiente.  
-4. **📈 Monitoramento Ativo:** Dashboards com CloudWatch e Prometheus para análises em tempo real.  
+4. **📈 Monitoramento Ativo:** Dashboards com CloudWatch para análises em tempo real.  
 5. **🚨 Plano de Contingência:** Mitigação de riscos em todas as etapas do projeto.
 
 ---
