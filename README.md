@@ -1,5 +1,5 @@
 # 🚀 **PROJETO FINAL - KUBERNETES**
-
+![Alt text](Images/AWS.jpeg)
 ## 👥 **EQUIPE 1:**
 - **Fabio Veras**  
 - **Igor Junqueira**  
@@ -29,7 +29,7 @@
 ---
 
 ## 🏗️ **2. Arquitetura da Nova Solução**
-
+![Alt text](Images/ArquiteturaProposta.png)
 ### **🔑 Componentes Principais:**
 - **Amazon EKS (Elastic Kubernetes Service):** Hospedagem dos contêineres da aplicação React com suporte Multi-AZ para alta disponibilidade.  
 - **Amazon RDS for MySQL:** Banco de dados gerenciado em PaaS com replicação Multi-AZ e backups automáticos.  
@@ -52,6 +52,9 @@
 ## 💵 **3. Valores**
 
 ### **📊 Estimativa Mensal de Infraestrutura:**
+![Alt text](Images/Orçamento1.jpeg)
+![Alt text](Images/Orçamento2.jpeg)
+
 *(Valores aproximados dependendo da escala e serviços utilizados.)*  
 
 ### **💼 Custos de Implementação:**
