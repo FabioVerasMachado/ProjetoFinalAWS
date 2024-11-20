@@ -39,7 +39,6 @@
 - **AWS IAM:** Controle rigoroso de acesso com políticas de menor privilégio.  
 - **AWS WAF:** Proteção contra ataques web comuns (ex.: DDoS, SQL Injection).  
 - **TLS/SSL:** Criptografia de tráfego para segurança dos dados em trânsito.
-
 ---
 
 ### **🔒 Segurança e Melhores Práticas:**
@@ -73,6 +72,7 @@
 ---
 
 ## ⚙️ **Estratégias de Execução**
+![Alt text](Images/DevSecOps.png)
 
 1. **🛠️ Equipes Paralelas:** Configuração simultânea de EKS, RDS e ELB para otimizar o tempo.  
 2. **🤖 Automação:** Uso de Terraform e CloudFormation para provisionamento de infraestrutura.  
