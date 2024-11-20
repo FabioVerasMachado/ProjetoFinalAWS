@@ -1,5 +1,5 @@
 # 🚀 **PROJETO FINAL - KUBERNETES**
-![Alt text](Images/AWS.jpeg)
+![Alt text](Images/CompassUOL.jpeg)
 ## 👥 **EQUIPE 1:**
 - **Fabio Veras**  
 - **Igor Junqueira**  
@@ -90,4 +90,7 @@ A proposta garante:
 - **📈 Escalabilidade**  
 - **⚡ Alta Disponibilidade**  
 
-Tudo isso para sustentar o crescimento de acessos e transações do eCommerce da **Fast Engineering S/A**! 🌐  
+Tudo isso para sustentar o crescimento de acessos e transações do eCommerce da **Fast Engineering S/A**! 🌐 
+
+![Alt text](Images/AWS.jpeg)
+
